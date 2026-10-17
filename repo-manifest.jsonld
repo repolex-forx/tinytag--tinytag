@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tinytag/tinytag/commit/ea5be2b7cf9ba51452bf01e42c6dfae04357e94a",
       "git:hexsha": "ea5be2b7cf9ba51452bf01e42c6dfae04357e94a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tinytag/tinytag/commit/e38fafc581e6fa171990cd2fc2cc04293b5c04e9",
